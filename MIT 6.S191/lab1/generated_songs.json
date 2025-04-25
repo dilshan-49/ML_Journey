@@ -1,0 +1,139 @@
+[
+  {
+    "params": {
+      "num_training_iterations": 3000,
+      "batch_size": 16,
+      "seq_length": 100,
+      "learning_rate": 0.005,
+      "embedding_dim": 256,
+      "hidden_size": 1024
+    },
+    "generated_songs": [
+      "X:24\nT:Glen Aarrochee\nZ: id:dc-jig-142\nM:6/8\nL:1/8\nK:G Major\nE|DG,DE G2GA|BcBA GEE2|GBEB GBE2|EBEB GBEB|!\nGEDE EDEG|AGAB|A2eA BAeB|dBAB GEE2|]!\na2ea a2ea|D2EF G2G2|AGGF G2dc|!\nBGBG EGDG|EAAG ABcA|Add^c dBAF|E3F G2:|!\nBc|d2gd adfa|bagf edBd|g3f gage|!\ndBB2 GABd|bagf eaag|faeg fdd:|!",
+      "X:314\nT:Slieve Russell\nZ: id:dc-jig-16\nM:6/8\nL:1/8\nK:E Dorian\nD|EBB EBB|D3 BAB|d3-3\ngfe|dBB2 FBd2|DFAd DccB:|!\nB2Ad BcdB|ABGF EFGE|D2FA defe|dBAF BFAF|!\ne2ce eBBA|BFF2 GBEB|dBAB A3c|BcdB BAFB|ABcA BG:|!",
+      "X:91\nT:Floersiat\nZ: id:dc-reel-399\nM:C\nL:1/8\nK:A Mixolydian\nA2FA cAGA|fdde f2df|edcA GABc|dedB AF_e|fdcA BGAF|EGFD EDB,D|!\nA,DD2 A2BA|EAAB GABc|d2dB AGFA|G2FA GE2:|!"
+    ]
+  },
+  {
+    "params": {
+      "num_training_iterations": 3000,
+      "batch_size": 16,
+      "seq_length": 100,
+      "learning_rate": 0.01,
+      "embedding_dim": 256,
+      "hidden_size": 1024
+    },
+    "generated_songs": [
+      "X:1\nT:Eel Chase\nZ: id:dc-hornpipe-29\nM:C|\nL:1/8\nK:G Major\nC|\"9C\nL:1/8\nK:E Dorian\nAB|cAGc AcBA|GAGE GED2|A2AB cBcd|BEGE GED2|!\nefed Bdgb|agfg edBd|gedB GABd|eaaf g3g|!\nagfd egdB|edBc d2AG|A3B dBAB|G2GF GABc|GABG dGBG|!\nBAGA B2dG|GBAG EGDB|G2BG dGBd|eBdB AGED|G3B A2Bd|cBA2 G3B|!\ndBAB G2ed|cBAG AGED|EAAG A3B|A4 G2:|!",
+      "X:205\nT:Gareell\nZ: id:dc-reel-21\nM:C\nL:1/8\nK:C Major\nBA|GEE2 EFGA|BAGF GEEF|GABd cdef|gedc Bcdc|BGAF GFGA|!\nB2GB dBGB|cdef g3a|gfge d=f|d^cde fdcA|!\nBcdB cAFG|AGAB cAGE|G2BG AGEG|c2Bc AGGF|EFGA G2:|!",
+      "X:2\nT:Bruach of Scear\nZ: id:dc-reel-331\nM:C\nL:1/8\nK:G Major\ndB|BABd egfe|dcAF GBAG|FAdc FDAD|!\nFFF2 dFFA|BFAF DcBA|defd edBA|!\nB2GB dBAB|F2AF dFBA|BGE GAB|AFGA B2GB:|!\nADFD A3B|AFF2 d2ef|afdf e2cA|BEE2 BAFA|ABdc BAFD|!\nEBBA B3d|cBAB c3d|edBc dAFG|AGFA GB:|!\nd2 fabf|afaf bgfa|bafa b2af|!\nbgb2 bagf|e2de fddB|AFEG FDCF|!\nG2BG BdBd|eedB BAFA|dfeg fdd2|bgaf bgfg|!\nfdad fdad|faaf gbaf|g2fg e2d|]!"
+    ]
+  },
+  {
+    "params": {
+      "num_training_iterations": 3000,
+      "batch_size": 16,
+      "seq_length": 100,
+      "learning_rate": 0.05,
+      "embedding_dim": 256,
+      "hidden_size": 1024
+    },
+    "generated_songs": [
+      "X:1137\nT:Pethet's\nZ: id:dc-jor\n(3o\nZ: id:dc-324\nM:6/8\nL:1/8\nK:G Major\nB|dc|G3/|DGG G/E/|DF G2 GF|G2 AB cG/|d2 DF/G/ A:|!",
+      "X:29\nT:Major\nBc|E2E2 BcdB|AFF2 FEBEE|FAFF A2FA|BdcA BFFA|BcAE BAAG|FDEF GFGE|FFBF BFFB|A2BA G3|]!",
+      "X:1207\nT:Oerithee\nZ: id:dc-reel-9\nM:C\nL:1/8\nK:A Major\nBc|E2DE D2GB|A2FA BGAF|EFGA B2ed|BAA2 BABc|dDef e2de|!\nBedB cAFA|d2ed cBAd|c2Ad A2Bc|BABc d32:|!\nfg|afde fdec|dcdB defd|edB BAFA|!\nBcde BAFA|BABc defe|EFGE BAFA|BdBc dBcd|BAFc Bcde|!\nE2FD D2FA|dDD2 A,2eA|Bdef gfdd|]!",
+      "X:59\nT:Firlie\nZ: id:dc-reel-1\nM:C\nL:1/8\nK:Sileaff\nZ: id:dc-jig-125\nM:6/8 EA|EAc BAF|DFA BAF|dee fed|eaa a3c|d2f dcA|BAB d3|c3 A3|!\nA2D DFA|d2e f2e|dBA EDE|F2E E2F|AGF DFG|AFD D:|!\n[2 BcdB|E3e def|gfe d3c|ABc defk dcd|ecA B2A:|!\nA2e defe|x3 bagb|gbb afdd|g3e efge|faf efge|fdf fed:|!",
+      "X:20\nT:MulquedBAG Major\nA|FAF BAB BAF|AGF ECCE|FDD:|!\nB|AEE EGA|Bcd edB|AGF G2A|B2c dcB AfA|BAF D2E:|!"
+    ]
+  },
+  {
+    "params": {
+      "num_training_iterations": 3000,
+      "batch_size": 16,
+      "seq_length": 100,
+      "learning_rate": 0.001,
+      "embedding_dim": 256,
+      "hidden_size": 1024
+    },
+    "generated_songs": [
+      "X:52\nT:Coleman's Cruach No. 2\nZ: id:dc-jig-15\nM:6/8\nL:1/8\nK:A Mixolydian\nEGA ABc|dcd ecA|a^ga ecA|def gfg|!\nage fga|ecA Bcd|eaf ged|c2A A2:|!\nB|cBc dcd|ecA A2e|cAc ecA|GBd cBA|!\na2e edc|a2e edc|a2e edc|Bcd D2:|!",
+      "X:49\nT:Geese in the Boa\nZ: id:dc-jig-87\nM:6/8\nL:1/8\nK:G Major\nE|D2B BAG|Bdd dBG|cee dBA|BAA AGE|!\nD2B BAG|Bdd d2B|ded def|gfg efg|!\nG3 GAB|ABd efg|dBB B2e|dBB B2A|!\nG2B dBB|GBd g2e|dBA A2e|dBA A2:|!\nF|GBB dBd|ede efg|dBB B2e|dBB Bga|!\nbag agf|gag fgf|ged Bed|Bee e2:|!\nf|gdB G3|FDF AFD|GBd efg|fdc d2A|!\ndef gfe|dBd gdB|cBc A2A|!\nDED G2A|BAG Bcd|efg fed|e2B A2:|!\n[2 A2a|bgg gfe|g2a bag|fdg Adf|gfe gfe|dBB B2A|!\nGBB dBe|dBA G2e|dBB B2A|GBA G2:|!\n[2 GED EDE|GFG eGA|BAG AGE|DGE GAB|cBA BGE|!\nDE|GAB BAB|GBA B2d|eBA A2G|EFG ABc|!\nBAG EDE|G2B d2B|BAB g3|BAB E2:|!\nA|Bee efg|fdf edA|Bee e2d|Bee e3|!\nfga efg|fef d2B|cBc edc|dBG G2|]!",
+      "X:115\nT:Paddy Tiapley's\nZ: id:dc-polka-11\nM:2/4\nL:1/8\nK:D Major\nf/e/d Be|ef ed|f/e/d Be|eA d2:|!"
+    ]
+  },
+  {
+    "params": {
+      "num_training_iterations": 3000,
+      "batch_size": 16,
+      "seq_length": 200,
+      "learning_rate": 0.005,
+      "embedding_dim": 256,
+      "hidden_size": 1024
+    },
+    "generated_songs": [
+      "X:5!\nDowar dBBA B3f|D3|d3 g3:|!\nB2|ABd dcBA BAGE|DED2D|!\nG, B,DE D3|DG,A,A, BD2GF ABc|!\nB,De d3|e2e2 d2|=f222 F2e|d2f g2a|c2c BAGF GFEE|D/F/A FE|!\nD2e fd|ed^c B2|cAGED g3|ec|cdcA2:|!\nBd gedc|B2B ABc|de fded|cA e2BA|GBd gf|c2cA G:|!\ng3 dBA3|tef g2|fde a2|eae fd:|!",
+      "X:56\nT:Oalter's\nZ: id:dc-reel-364\nM:C\nL:1/8\nK:D Major\nA|E2GB|Bca2 age|!\ng2 adge|gdB G3|]!\nGAGEFG|AA A2car Bd|ecA Bcd|ABA fAA2|BEE EA B3d dFa|!\nA|Bde2an^g|edBc dBc|d2e fefd|cAAc|D2dfed defd|cA BAFA|d2g ac2 Bag|ec dce|age faa|age edf|gfed^cd|ecA G2:|!",
+      "X:167\nT:DucE age|dec dcBA|BcdBA A2:|!",
+      "X:169\nT:John's\nZ: id:dc-jig-181\nM:6/8\nK:Dueage Lix\nDE3D FG2|A2 DEF|GdcA BcdB|A2A B2AFFD D2E|!\nFDD ddB|ABc AGFAG|ABB DBA:|!\nBd|cded|!\nd2a Hied|agf2 afgec|d2e fece|d2ec B2cA|Bdef ge|dBGd BAFF|E2DE2g DEF|E3D D2:|!"
+    ]
+  },
+  {
+    "params": {
+      "num_training_iterations": 3000,
+      "batch_size": 32,
+      "seq_length": 150,
+      "learning_rate": 0.005,
+      "embedding_dim": 256,
+      "hidden_size": 1024
+    },
+    "generated_songs": [
+      "X:51\nT:Charlid\nZ: id:dc-Aee Ad|]6|d>c B>c|AB Bd e|fa/f/e/ ce|!\nf>f a>f|ed f2|df cd|B/c/d BA|FA FF|DE/A/ cF|EF DF/E/:|!\nfA B|dA Bc AF/F/|Gc B2|!\nef/e/ dB|cF A2|B/c/d fe|f2 fe d2:|!\ncee e/f/a/f|gf fe|cd B2|AF F2|E3 E EF B|ce e2|A2 A2|!\n[1 B c|d3 g|f2 d2|^cd ed|^c e2 e2|Ac A2:|!\nBd|BA BA/B/|cB BA|GE E2|G2 GF E2:|!",
+      "X:39\nT:Mist Lonne aile\nZ: id:dc-waltz-6\nM:2/4\nL:1/8\nK:G Major\nB|A2F DEF|B2c B2A|BdB A2F:|!\ng3 d3|A2F ABd|e2e def g3|f3 e2d|!\nABA BAB|F3 ABd|e3 d2|]!",
+      "X:97\nT:Love the Leases\nZ: id:dc-jig-110\nM:6/8\nL:1/8\nK:G Major\nc3B Apde|!\nf3e fgae|^cgag eaag|faag eddB|cBcd cBcA|AceA DGGF|c2ec dBGB|!\nc3e AcAB|cBBA Beec|dBB2 A2:|!\n[2 aege dega|baa^g fdeA|cAA2 (3ABc|EAAA GABc|!\ncBcd eage|dBB2 agba|gfge fedB|A2eA fAeA|cAec:|!",
+      "X:99\nT:Gestond hown\nZ: id:dc-reel-267\nM:C\nL:1/8\nK:D M:Coinor\nAcec eaEle agaf|ecc2 acgce|f2a^f bgaf|Addc Add2|!\nefge a2ge|faec fgag|eaa9 aecA|AGcE E2:|!"
+    ]
+  },
+  {
+    "params": {
+      "num_training_iterations": 2500,
+      "batch_size": 32,
+      "seq_length": 120,
+      "learning_rate": 0.005,
+      "embedding_dim": 256,
+      "hidden_size": 256
+    },
+    "generated_songs": [
+      "X:191\nT:Log trand Shipen\nZ: id:dc-jig-:66\nM:6/8\nL:1/8\nK:D Major\nf|afe dcB|AFE EFA|Bdd fed|cBA Bcd|AFD D2d|!\ncAA BAB|cAA cAA|dfe d2:|!",
+      "X:110\nT:Paddy Tayls of May Pipes\nZ: id:dc-reel-362\nM:C\nL:1/8\nK:G Major\nDGBG AFFG|(3ABA GF G2FG|ABAG FADF|EB,DB ADFD|GBAG FAdf|!\ng2fg efge|dcBA B2GB|ADFA dAFA|GBB2 GBAG|FAde dcBA|]!\nd2Bd edgd|edgd edgd|Bdgd BAA2|gfgd edBd|eggf edcB|!\n[1 dBA|G3:|!"
+    ]
+  },
+  {
+    "params": {
+      "num_training_iterations": 2500,
+      "batch_size": 32,
+      "seq_length": 120,
+      "learning_rate": 0.005,
+      "embedding_dim": 256,
+      "hidden_size": 512
+    },
+    "generated_songs": [
+      "X:272\nT:Opera\nZ: id:dc-reel-264\nM:C\nL:1/8\nK:A Dorian\nBd|eAA2 BABd|egg2 ageg|baga gedB|ABcd eaaf|gedB eAAg|!\neaa2 bgg2|agg2 efge|dggd egdB|c2Ac B2BA|!\nG2Bd gdBG|c2Bc AGEG|EAA2 cAAG|AdcA G2:|!\nga|b2eg ageg|agbg ageg|dBB2 dBGB|A2cA eAcA|B2G2 G2:|!\ngd|d2gd BGAF|GBAG FDD2|E2GE DEGA|Bdgd BGG|]!",
+      "X:254\nT:Pamas of Munster\nZ: id:dc-reel-239\nM:C\nL:1/8\nK:D Major\nFG|ABcA F2GF|EdcA GcAc|dcdf e2eg|fdcA G2FG|!\nABAF DEFG|AGAB c2 (3AB^c|d^cde fdAG|FDD2 EFGB|!\nADFD A2GA|c2ec A,2E2|FDd^c d2eg|fde^c d=cAG|!\nF2FE DFF2|DFF2 G2Bc|dBAG FDD:|!",
+      "X:209\nT:Maids of Mitchelstown\nZ: id:dc-reel-30\nM:C\nL:1/8\nK:A Major\nc2AB cBAB|cAc2 AFF2|eAfA ecBc|ABce d2cB|!\nAdfd adfd|ceAe cecA|BAec A3e|fecc A2:|!"
+    ]
+  },
+  {
+    "params": {
+      "num_training_iterations": 2500,
+      "batch_size": 64,
+      "seq_length": 120,
+      "learning_rate": 0.005,
+      "embedding_dim": 256,
+      "hidden_size": 512
+    },
+    "generated_songs": [
+      "X:87\nT:Laind Mihonton's No. 2\nZ: id:dc-reel-144\nM:C\nL:1/8\nK:D Major\n(3ABc|dcAG FGAF|(3B^cd edcB|ADFD AFDF|AdcB A4|!\nd3B GBdg|e2ce gecA|d2dc d2ge|fdcA BGAF|!\nAdde fded|cded cAGc|Add^c d3:|!\ne|fdad fdad|fdaf gee2|fdad fddf|gefd edBd|Add fdd|!\nAdd faa|gefg agaf|defd ecdc|BGAG FDDg|!\nfcc2 eceg|f2fg fedc|dcAG FDD2|d^cGE E4:|!\nd2ad fded|cdef g2fg|afge fde^c|dfed ^cded|!\n^c2=cGB A2dc|BGG2 AFdF|G2GF GFDe|fdcA BG:|!\nBd|g3f g3e|f3d e3d|f3d edde|fd=cA F3|!\n[1 aeg fd^cd|eaag egc2|g2ab g2gf|ecAc dBGB|!\nA2cA eAcA|eAaA BGBd|c2Ac BAGB|AGGF GEDE|G2gf gdBG|!\nc2ga gage|fde^c d=cAB|c2gc acgc|Acge d3|]!",
+      "X:10\nT:Mug of Teom\nZ: id:dc-reel-161\nM:C\nL:1/8\nK:D Major\nABc|d2dd d2cd|BdAG FDD2|defd BAGF|EGFE D2:|!"
+    ]
+  }
+]
