@@ -26,7 +26,7 @@ This folder contains Jupyter notebooks and Python scripts for learning PyTorch, 
 ### Saved Models
 
 - **`models/`** - Directory for saved model checkpoints
-  - `simplenet_adam` - Trained model using Adam optimizer
+  - `simplenet_adam` - Trained model using Adam optimizer (Not uploaded due to size)
 
 ## 🚀 Getting Started
 
